@@ -1,5 +1,5 @@
 A regression predictive modeling project end-to-end.
-incudes:
+includes:
 1) evaluating algorithms using the Mean Squared Error (MSE) metric
 2) data transforms to improve model performance
          Standardization
