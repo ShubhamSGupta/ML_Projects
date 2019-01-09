@@ -1,1 +1,11 @@
-
+A regression predictive modeling project end-to-end.
+incudes:
+1) evaluating algorithms using the Mean Squared Error (MSE) metric
+2) data transforms to improve model performance
+         Standardization
+         Pipelines
+3) algorithm tuning to improve model performance.
+4) ensemble methods and tuning of ensemble methods to improve model performance:
+         Boosting Methods: AdaBoost (AB) and Gradient Boosting (GBM).
+         Bagging Methods: Random Forests (RF) and Extra Trees (ET).
+        
