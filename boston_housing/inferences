@@ -1,0 +1,7 @@
+   Analyzed Data : some skewed distributions and correlated attributes.
+   Evaluated Algorithms : Linear Regression looked good.
+   Evaluated Algorithms with Standardization : KNN looked good.
+   Algorithm Tuning : K=3 for KNN was best.
+   Ensemble Methods  : In Bagging and Boosting, Gradient Boosting looked good.
+   Tuning Ensemble Methods : getting the most from Gradient Boosting.
+   Finalized Model : used all training data and confirmed using validation dataset.
